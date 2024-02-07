@@ -1,0 +1,18 @@
+{
+    "name": "budget/budget-finances-main",
+    "description": "artisan_enabler",
+    "type": "project",
+    "license": "unilicence",
+    "autoload": {
+        "psr-4": {
+            "Budget\\BudgetFinancesMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patrick-K-N",
+            "email": "patricknjuguna621@gmail.com"
+        }
+    ],
+    "require": {}
+}
